@@ -2,8 +2,20 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-## Available Scripts
+## Steps to follow 
 
+Step 01
+Download the zip file and extract it and open in the Visual Studio Code compiler
+
+Step 02
+Change the directory to the base folder 
+
+Step 03
+Install the npm packages using 
+
+### `npm i`
+
+Step 04
 In the project directory, you can run:
 
 ### `npm start`
