@@ -8,7 +8,7 @@ Step 01
 Download the zip file and extract it and open in the Visual Studio Code compiler
 
 Step 02
-Change the directory to the base folder 
+Change the directory to the base folder i.e ( Digia-main )
 
 Step 03
 Install the npm packages using 
